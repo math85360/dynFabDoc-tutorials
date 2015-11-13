@@ -1,4 +1,5 @@
 {
+	"title":"Faire un chapin de noël (niveau 1)",
 	"instructions":[
 		{
 			"action":"resultOrHowto",
@@ -6,7 +7,7 @@
 				"http://www.chapindenoel.com/file.svg"
 			],
 			"howto":{
-				"source":"/2D-vector-image-editor/drawing/",
+				"source":"/2D-vector-image-editor/drawing/inkscape?",
 				"subject":"de chapin ou de la forme souhaitée",
 				"instructions":[
 					{
@@ -44,7 +45,7 @@
 				"http://www.chapindenoel.com/photo_decoupe_laser.jpg"
 			],
 			"howto":{
-				"source":"/2D-laser/cutting/"
+				"source":"/2D-laser/cutting/cardboard?"
 			}
 			
 		},
