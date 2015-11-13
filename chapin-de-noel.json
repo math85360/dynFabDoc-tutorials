@@ -1,0 +1,61 @@
+{
+	"instructions":[
+		{
+			"action":"resultOrHowto",
+			"result":[
+				"http://www.chapindenoel.com/file.svg"
+			],
+			"howto":{
+				"source":"/2D-vector-image-editor/drawing/",
+				"subject":"de chapin ou de la forme souhaitée""instructions":[
+					{
+						"insertBefore":"save",
+						"modelId":"drawPath",
+						"path":"le chapin ou la forme souhaitée"
+					}
+					,
+					{
+						"insertBefore":"save",
+						"modelId":"selectPoints",
+						"select":"que vous souhaitez répartir verticalement"
+					}
+					,
+					{
+						"insertBefore":"save",
+						"modelId":"distributeVertically",
+						"to":"répartir de façon régulière les pointes du chapin"
+					}
+					,
+					{
+						"insertBefore":"save",
+						"modelId":"editBezierCurves",
+						"to":"l'adapter comme souhaité"
+					}
+					
+				]
+				
+			}
+			
+		},
+		{
+			"action":"resultOrHowto",
+			"result":[
+				"http://www.chapindenoel.com/photo_decoupe_laser.jpg"
+			],
+			"howto":{
+				"source":"/2D-laser/cutting/cardboard?"
+			}
+			
+		},
+		{
+			"action":"resultOrHowto",
+			"result":[
+				"http://www.chapindenoel.com/photo_peint.jpg"
+			],
+			"howto":{
+				"source":"/painting/spray?"
+			}
+		}
+		
+	]
+}
