@@ -7,7 +7,8 @@
 			],
 			"howto":{
 				"source":"/2D-vector-image-editor/drawing/",
-				"subject":"de chapin ou de la forme souhaitée""instructions":[
+				"subject":"de chapin ou de la forme souhaitée",
+				"instructions":[
 					{
 						"insertBefore":"save",
 						"modelId":"drawPath",
@@ -55,6 +56,7 @@
 			"howto":{
 				"source":"/painting/spray?"
 			}
+			
 		}
 		
 	]
